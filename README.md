@@ -8,8 +8,7 @@ Welcome to the **UpworthyEngageHub**, an interactive Tableau dashboard developed
 - **Dataset**: Upworthy dataset (sourced from `funnel_data.csv`, `top_headlines.csv`, `ab_test_winners.csv`, `upworthy_clean.csv`)
 - **Tools**: Tableau, Python (Pandas, NumPy, Matplotlib, Seaborn)
 - **Completion Date**: September 2025
-- **GitHub Repository**: [https://github.com/YourUsername/UpworthyEngageHub](https://github.com/pranavpradipbhalerao-jpg/UpworthyEngageHub)
-- **License**: MIT
+
 
 ## Key Achievements
 - Analyzed 376,529,158 impression records from the Upworthy dataset using Tableau to optimize content engagement.
@@ -22,7 +21,3 @@ Welcome to the **UpworthyEngageHub**, an interactive Tableau dashboard developed
 - **A/B Testing Impact**: A/B tests with statistically significant p-values (e.g., 6.77e-10 for a 0.0289% vs. 0.0100% CTR comparison) highlight winning headlines that outperform losers by up to 2.88% CTR, offering a clear strategy for content refinement.
 - **Resource Allocation**: Optimized headlines, representing a small fraction of tests, drive disproportionate engagement, enabling marketers to focus efforts on high-potential content and maximize ROI.
 - **Trend Identification**: The dataset spans multiple test weeks (e.g., 201326 to 201516), allowing for trend analysis to adapt strategies to seasonal or audience shifts.
-## Installation & Usage
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/YourUsername/UpworthyEngageHub.git
