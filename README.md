@@ -1,4 +1,3 @@
-# UpworthyEngageHub-
 # UpworthyEngageHub
 
 ## Overview
